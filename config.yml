@@ -2,3 +2,22 @@ baseURL: https://ymir.be
 languageCode: en-us
 title: Ymir
 theme: PaperMod
+
+
+params:
+    profileMode:
+        enabled: true
+        title: "Ymir" # optional default will be site title
+        subtitle: "Health, Innovation, and AI Consulting"
+        imageUrl: "https://i.ibb.co/7Rgp4sm/ymir-black-medium.png" # optional
+        imageTitle: "Ymir Logo Black" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+            - name: Email
+              url: "mailto:gb@ymir.be"
+        ShowShareButtons: true
+        ShareButtons: ["linkedin", "twitter"] # To customize which share buttons to be enabled on page
+
+
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ymir</title>
+    <link>https://ymir.be/</link>
+    <description>Recent content on Ymir</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ymir.be/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://ymir.be/about/</link>
+      <pubDate>Wed, 18 Oct 2023 18:07:14 +0200</pubDate>
+      
+      <guid>https://ymir.be/about/</guid>
+      <description>Ymir: Tailored consultancy in Health, Innovation, and AI I am dedicated to harnessing the transformative potential of AI to revolutionize healthcare processes, outcomes, and patient experiences.
+Contact: gb@ymir.be
+1. Health Technology Integration and Validation: Comprehensive assessments of existing health IT infrastructures. Personalized recommendations for the integration of AI-powered solutions. Seamless integration of digital health technologies to enhance care delivery. 2. AI-Driven Clinical Decision Support: Deployment of AI models for diagnostics, prognosis, and treatment planning.</description>
+    </item>
+    
+  </channel>
+</rss>
